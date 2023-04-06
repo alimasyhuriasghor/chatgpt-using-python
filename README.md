@@ -10,3 +10,6 @@ You Must At Least Know The Basics Of Python And Object Oriented Programming Of P
     <li>Python Basics</li>
     <li>OOP</li
 </ul>
+
+## Found Some Troubles Or Bugs?
+You Can Dm Me On My <a href="https://www.instagram.com/alimasyuri_asghor/?hl=id">Instagram</a>
