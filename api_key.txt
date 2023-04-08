@@ -1,1 +1,1 @@
-Insert Your Openai Key Right In This File
+Put Your Api Key In This File 
